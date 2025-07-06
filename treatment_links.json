@@ -1,0 +1,2385 @@
+{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The ACL is one of the most commonly injured ligaments of the knee. Approximately half of ACL injuries occur along with damage to the meniscus, articular cartilage, or other ligaments. Injured ligaments are considered sprains and are graded on a severity scale.",
+    "causes": [
+        "Injury during sports activities",
+        "Accidents during physical activities"
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Swelling",
+        "Pain",
+        "Difficulty in movement"
+    ],
+    "non_surgical_treatments": [
+        "Progressive physical therapy",
+        "Wearing a hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are not usually repaired using sutures (stitches) because repaired ACLs have generally been shown to fail over time. The torn ACL is generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months",
+    "rehabilitation": "Physical therapy is a crucial part of successful ACL surgery, with exercises beginning immediately after the surgery. Much of the success of ACL reconstructive surgery depends on the patient's dedication to rigorous physical therapy.",
+    "success_rate": "High success rate with proper rehabilitation and adherence to post-operative care.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs that require pivoting, turning, or hard-cutting should consider surgical treatment. Young children or adolescents with ACL tears should discuss the risks and benefits of surgery with their surgeon.",
+    "results": "Most patients are allowed to return to full sports participation within 6 to 12 months, depending on the patient's progress, strength, and mechanics.",
+    "cost_estimation": "Cost can vary widely based on location, surgeon, and facility, but it typically ranges from $5,000 to $20,000."
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Local Anesthesia",
+        "Regional Anesthesia",
+        "General Anesthesia"
+    ],
+    "procedure_description": "Anesthesia is used to manage pain during surgery and can be categorized into local, regional, and general anesthesia.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury",
+        "Heart attack",
+        "Stroke"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; many patients return to daily activities within a few days.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments fail or when a diagnosis requires surgical intervention.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months",
+    "rehabilitation": "Physical therapy may be prescribed to restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "When cartilage damage is significant and causing pain or functional limitations, especially in younger patients with single lesions.",
+    "results": "Can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Low back pain caused by one or two problematic (arthritic) intervertebral disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain that does not improve with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Medication",
+        "Chiropractic care"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Spinal fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early motion encouraged",
+    "rehabilitation": "Basic exercises, including routine walking and stretching, during the first several weeks after surgery.",
+    "success_rate": "Success for lumbar fusion for low back pain due to a degenerative disk ranges from 50 to 90%. Disk replacement improves, but does not completely eliminate pain.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is caused by degenerative disks as determined by diagnostic testing and physical exam.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies; many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "laminectomy",
+        "diskectomy",
+        "transforaminal lumbar interbody fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia, which numbs the surgical area without putting the patient to sleep. This method is considered safer as it does not require a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery",
+        "Anxiety or fear during the procedure"
+    ],
+    "recovery_time": "Patients will start moving around with help immediately after the procedure and will be evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The ACL is one of the most commonly injured ligaments of the knee. Approximately half of ACL injuries occur along with damage to the meniscus, articular cartilage, or other ligaments. Injured ligaments are considered sprains and are graded on a severity scale.",
+    "causes": [
+        "Injury during sports activities",
+        "Twisting motions of the knee",
+        "Sudden stops or changes in direction"
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Swelling",
+        "Pain",
+        "Limited range of motion"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are not usually repaired using sutures (stitches) because repaired ACLs have generally been shown to fail over time. The torn ACL is generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months",
+    "rehabilitation": "Physical therapy is a crucial part of successful ACL surgery, with exercises beginning immediately after the surgery. Much of the success of ACL reconstructive surgery depends on the patient's dedication to rigorous physical therapy.",
+    "success_rate": "High success rate with proper rehabilitation and adherence to post-operative guidelines.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs that require pivoting, turning, or hard-cutting should consider surgical treatment. Young children or adolescents with ACL tears should discuss the risks and benefits of surgery with their surgeon.",
+    "results": "Most patients are allowed to return to full sports participation within 6 to 12 months, depending on the patient's progress, strength, and mechanics.",
+    "cost_estimation": "Cost varies based on location, surgeon, and facility, but can range from $5,000 to $20,000."
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Local Anesthesia",
+        "Regional Anesthesia",
+        "General Anesthesia"
+    ],
+    "procedure_description": "Anesthesia is used to manage pain during surgery. There are three broad categories of anesthesia: local, regional, and general.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; many patients return to daily activities within a few days.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments have failed or when a specific diagnosis indicates surgical intervention is necessary.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months depending on the procedure and location of the lesion",
+    "rehabilitation": "Physical therapy may be prescribed to help restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "When cartilage damage is significant and causing pain or functional limitations, especially in younger patients with single lesions.",
+    "results": "Restoration of cartilage can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Degenerative (arthritic) disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain not improving with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises including routine walking and stretching during the first several weeks after surgery, avoiding activities that cause hyperextension of the back.",
+    "success_rate": "Improvement of lower back pain and disability in weeks to months after surgery, with success rates ranging from 50 to 90% for lumbar fusion, but artificial disk replacement aims to preserve motion and may have varying outcomes.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is determined to stem from one or two degenerative disks, as assessed by diagnostic testing and physical exam.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery, but it does not completely eliminate pain.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies, and many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Laminectomy",
+        "Diskectomy",
+        "Transforaminal Lumbar Interbody Fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia to numb the surgical area, allowing the patient to remain awake and aware during the procedure. This method is considered safer as it does not require a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery; patients must be able to lie on their stomach and be at a healthy weight.",
+        "Some patients may feel anxious or scared during the procedure."
+    ],
+    "recovery_time": "Patients will start moving around with help immediately after the procedure and will be evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The ACL is one of the most commonly injured ligaments of the knee. Approximately half of ACL injuries occur along with damage to the meniscus, articular cartilage, or other ligaments. Injured ligaments are considered sprains and are graded on a severity scale.",
+    "causes": [
+        "Injury during sports or physical activities",
+        "Accidents or falls"
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Pain",
+        "Swelling",
+        "Difficulty in movement"
+    ],
+    "non_surgical_treatments": [
+        "Progressive physical therapy",
+        "Wearing a hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are not usually repaired using sutures (stitches) because repaired ACLs have generally been shown to fail over time. The torn ACL is generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months depending on the patient's progress, strength, and mechanics.",
+    "rehabilitation": "Physical therapy is a crucial part of successful ACL surgery, with exercises beginning immediately after the surgery. Much of the success of ACL reconstructive surgery depends on the patient's dedication to rigorous physical therapy.",
+    "success_rate": "Most patients are allowed to return to full sports participation within 6 to 12 months, depending on the patient's progress, strength, and mechanics.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs that require pivoting, turning, or hard-cutting, or who perform heavy manual work are encouraged to consider surgical treatment.",
+    "results": "The prognosis for a partially torn ACL is often good, while complete ACL tears have a much less positive outcome without surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Local Anesthesia",
+        "Regional Anesthesia",
+        "General Anesthesia"
+    ],
+    "procedure_description": "The selection of anesthesia is based on several factors including past experiences, current health, reactions to medications, risks involved, and the healthcare team.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover, with many patients returning to daily activities within a few days.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments have failed or when a specific diagnosis indicates surgical intervention.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months depending on the procedure",
+    "rehabilitation": "Physical therapy may be prescribed to restore mobility and strengthen the joint.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "When cartilage damage is significant and causing pain or functional limitations.",
+    "results": "Can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Low back pain caused by one or two problematic (arthritic) intervertebral disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain that does not improve with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises, including routine walking and stretching, during the first several weeks after surgery.",
+    "success_rate": "Improvement of lower back pain and disability in weeks to months after surgery; success rates range from 50 to 90% for lumbar fusion, but artificial disk replacement aims to preserve motion and may have different outcomes.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is determined to stem from degenerative disks as per diagnostic testing.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery, but it does not completely eliminate pain.",
+    "cost_estimation": "Not specified."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Laminectomy",
+        "Diskectomy",
+        "Transforaminal Lumbar Interbody Fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia, which numbs the surgical area without putting the patient to sleep. This method is considered safer as it avoids the need for a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery; patients must be able to lie on their stomach and be at a healthy weight.",
+        "Some patients may feel anxious or scared during the procedure."
+    ],
+    "recovery_time": "Patients will start moving around with help immediately after the procedure and will be evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The ACL is one of the most commonly injured ligaments of the knee. Approximately half of ACL injuries occur along with damage to the meniscus, articular cartilage, or other ligaments. Injured ligaments are considered sprains and are graded on a severity scale.",
+    "causes": [
+        "Injury during sports activities",
+        "Twisting movements of the knee",
+        "Direct impact to the knee"
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Swelling",
+        "Pain during movement"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "The torn ACL is generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft from a tissue donor.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months",
+    "rehabilitation": "Physical therapy is crucial, with exercises beginning immediately after surgery. The goals include reducing swelling, regaining full range of motion, and strengthening muscles.",
+    "success_rate": "Generally high, especially with proper rehabilitation and adherence to post-operative care.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs requiring pivoting, turning, or heavy manual work should consider surgery. Young children or adolescents with ACL tears should discuss risks and benefits with their surgeon.",
+    "results": "Most patients return to full sports participation within 6 to 12 months, depending on progress and strength.",
+    "cost_estimation": "Varies based on location and healthcare provider."
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Local Anesthesia",
+        "Regional Anesthesia",
+        "General Anesthesia"
+    ],
+    "procedure_description": "Anesthesia involves numbing the area being treated or affecting the entire body to ensure the patient is unconscious during surgery.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury",
+        "Heart attack",
+        "Stroke"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; specific activity and rehabilitation program may be suggested to speed recovery.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed your recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments have failed or when a specific diagnosis indicates surgical intervention is necessary.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Medication for pain management"
+    ],
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Nerve damage",
+        "Failure to relieve symptoms"
+    ],
+    "recovery_time": "Several months, depending on the procedure and location of the lesion",
+    "rehabilitation": "Physical therapy to restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition, generally favorable for younger patients with single lesions.",
+    "when_to_consider_surgery": "When non-surgical treatments fail and symptoms persist, especially in younger patients with single cartilage lesions.",
+    "results": "Can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": "Varies widely based on procedure and location, typically several thousand dollars."
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Degenerative (arthritic) disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain not improved with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises including routine walking and stretching during the first several weeks after surgery, avoiding activities that cause hyperextension of the back.",
+    "success_rate": "Success for lumbar fusion for low back pain due to a degenerative disk ranges from 50 to 90%. Disk replacement improves, but does not completely eliminate pain.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is caused by one or two degenerative disks, as determined by diagnostic testing and a physical exam.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies; many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "laminectomy",
+        "diskectomy",
+        "transforaminal lumbar interbody fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia, which numbs the surgical area without putting the patient to sleep. This method is considered safer as it does not require a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery",
+        "Anxiety or fear during the procedure"
+    ],
+    "recovery_time": "Patients will start moving around with help immediately after the procedure and will be evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The article provides in-depth information about treatment for anterior cruciate ligament injuries, including surgical techniques, rehabilitation, potential complications, and outcomes.",
+    "causes": [
+        "ACL injuries occur due to sports activities, falls, or accidents that put stress on the knee."
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Pain",
+        "Swelling",
+        "Difficulty in movement"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months depending on the patient's progress, strength, and mechanics.",
+    "rehabilitation": "Physical therapy is crucial, with exercises beginning immediately after surgery. Goals include reducing swelling, regaining full range of motion, and strengthening muscles.",
+    "success_rate": "Most patients are allowed to return to full sports participation within 6 to 12 months.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs requiring pivoting, turning, or heavy manual work should consider surgical treatment.",
+    "results": "Surgical treatment generally produces better outcomes, especially in cases of combined injuries.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Total Hip Replacement",
+        "Total Knee Replacement"
+    ],
+    "procedure_description": "The selection of anesthesia is based on several factors including past experiences, current health, reactions to medications, and the skills of the healthcare team.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; specific activity and rehabilitation program may be suggested to speed recovery.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed your recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments have failed or when the condition is severe enough to warrant surgical intervention.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months",
+    "rehabilitation": "Physical therapy may be prescribed to restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "When cartilage damage is significant and causing pain or functional limitations, especially in younger patients with single lesions.",
+    "results": "Restoration of cartilage can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Degenerative (arthritic) disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain not improved with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises including routine walking and stretching during the first several weeks after surgery, avoiding activities that cause hyperextension of the back.",
+    "success_rate": "Improvement of lower back pain and disability in weeks to months after surgery, with success rates ranging from 50 to 90% for lumbar fusion, but artificial disk replacement aims to preserve motion and may have varying outcomes.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is determined to stem from one or two degenerative disks, as assessed by diagnostic testing and physical exam.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery, but it does not completely eliminate pain.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies, and many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Laminectomy",
+        "Diskectomy",
+        "Transforaminal Lumbar Interbody Fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia, which numbs the surgical area without putting the patient to sleep. This method is considered safer as it avoids the need for a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery",
+        "Anxiety or fear during the procedure"
+    ],
+    "recovery_time": "Patients start moving around with help immediately after the procedure and are evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The article provides in-depth information about treatment for anterior cruciate ligament injuries, including surgical techniques and rehabilitation, potential complications, and outcomes.",
+    "causes": [
+        "ACL injuries occur due to sports activities, falls, or accidents that put stress on the knee."
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Pain",
+        "Swelling",
+        "Difficulty in movement"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months depending on the patient's progress, strength, and mechanics.",
+    "rehabilitation": "Physical therapy is crucial, with exercises beginning immediately after surgery. Goals include reducing swelling, maintaining mobility, regaining full range of motion, and strengthening muscles.",
+    "success_rate": "Most patients are allowed to return to full sports participation within 6 to 12 months, depending on recovery progress.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs requiring pivoting or turning, or those with significant functional instability should consider surgery.",
+    "results": "Surgical treatment generally produces better outcomes, especially in cases of combined injuries.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Total Hip Replacement",
+        "Total Knee Replacement"
+    ],
+    "procedure_description": "The selection of anesthesia involves considering past experiences, current health, reactions to medications, risks, and the healthcare team.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; specific activity and rehabilitation program may be suggested.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments have failed or when a specific diagnosis indicates surgical intervention.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months",
+    "rehabilitation": "Physical therapy may be prescribed to restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "Candidates are typically young adults with a single injury or lesion. Older patients or those with multiple lesions may not benefit as much.",
+    "results": "Can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Degenerative (arthritic) disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain not improving with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises including routine walking and stretching during the first several weeks after surgery, avoiding activities that cause hyperextension of the back.",
+    "success_rate": "Success for lumbar fusion for low back pain due to a degenerative disk ranges from 50 to 90%. Disk replacement improves, but does not completely eliminate pain.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is determined to stem from one or two degenerative disks, as confirmed by diagnostic testing and physical exam.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies; many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "laminectomy",
+        "diskectomy",
+        "transforaminal lumbar interbody fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia, which numbs the surgical area without putting the patient to sleep. This method is considered safer as it does not require a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery",
+        "Anxiety or fear during the procedure"
+    ],
+    "recovery_time": "Patients will start moving around with help immediately after the procedure and will be evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The article provides in-depth information about treatment for anterior cruciate ligament injuries, including surgical techniques and rehabilitation, potential complications, and outcomes.",
+    "causes": [
+        "ACL injuries occur due to sports activities, falls, or accidents that put stress on the knee."
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Pain",
+        "Swelling",
+        "Difficulty in movement"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft from a tissue donor.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months depending on the patient's progress, strength, and mechanics.",
+    "rehabilitation": "Physical therapy is crucial, with exercises beginning immediately after surgery. Goals include reducing swelling, regaining full range of motion, and strengthening muscles.",
+    "success_rate": "Most patients are allowed to return to full sports participation within 6 to 12 months after surgery, depending on recovery progress.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs requiring pivoting or turning, and those with significant functional instability should consider surgery.",
+    "results": "Surgical treatment generally produces better outcomes, especially in cases of combined injuries.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "This article discusses the types of anesthesia used for hip and knee surgeries, including local, regional, and general anesthesia, and the factors to consider when selecting anesthesia.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Total Hip Replacement",
+        "Total Knee Replacement"
+    ],
+    "procedure_description": "The selection of anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; specific activity and rehabilitation program may be suggested to speed recovery.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed your recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments have failed or when the condition is severe enough to warrant surgical intervention.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months depending on the procedure",
+    "rehabilitation": "Physical therapy may be prescribed to restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "When cartilage damage is significant and causing pain or functional limitations, especially in younger patients with single lesions.",
+    "results": "Can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Low back pain caused by one or two problematic (arthritic) intervertebral disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain that does not improve with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises, including routine walking and stretching, during the first several weeks after surgery.",
+    "success_rate": "Success for lumbar fusion for low back pain due to a degenerative disk ranges from 50 to 90%. Disk replacement improves, but does not completely eliminate pain.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is determined to stem from one or two degenerative disks.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies; many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "ACL Reconstruction",
+    "overview": "The article provides in-depth information about treatment for anterior cruciate ligament injuries, including surgical techniques, rehabilitation, potential complications, and outcomes.",
+    "causes": [
+        "ACL injuries occur due to sports activities, falls, or accidents that put stress on the knee."
+    ],
+    "symptoms": [
+        "Knee instability",
+        "Pain",
+        "Swelling",
+        "Difficulty in movement"
+    ],
+    "non_surgical_treatments": [
+        "Progressive physical therapy",
+        "Rehabilitation exercises",
+        "Hinged knee brace"
+    ],
+    "surgical_procedures": [
+        "ACL Reconstruction"
+    ],
+    "procedure_description": "ACL tears are generally replaced by a substitute graft made of tendon, including patellar, hamstring, or quadriceps tendon autograft, or allograft from a tissue donor.",
+    "risks_and_complications": [
+        "Infection",
+        "Viral transmission",
+        "Bleeding",
+        "Numbness",
+        "Blood clot",
+        "Instability",
+        "Stiffness",
+        "Extensor mechanism failure",
+        "Growth plate injury",
+        "Kneecap pain"
+    ],
+    "recovery_time": "6 to 12 months depending on the patient's progress, strength, and mechanics.",
+    "rehabilitation": "Physical therapy is crucial, with exercises beginning immediately after surgery. Goals include reducing swelling, regaining full range of motion, and strengthening muscles.",
+    "success_rate": "Most patients are allowed to return to full sports participation within 6 to 12 months, depending on recovery progress.",
+    "when_to_consider_surgery": "Active adult patients involved in sports or jobs requiring pivoting or turning, and those with significant functional instability should consider surgery.",
+    "results": "Surgical treatment generally produces better outcomes, especially in cases of combined injuries.",
+    "cost_estimation": "Cost varies based on the healthcare provider and location, and may include surgery, rehabilitation, and follow-up care."
+}{
+    "surgery_name": "Anesthesia for Hip and Knee Surgery",
+    "overview": "Anesthesia is a major decision that could have a major impact on your recovery. It deserves careful consideration and discussion with your surgeon and your anesthesiologist.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "Oral Pain Medications",
+        "Intravenous Pain Medications"
+    ],
+    "surgical_procedures": [
+        "Local Anesthesia",
+        "Regional Anesthesia",
+        "General Anesthesia"
+    ],
+    "procedure_description": "The selection of anesthesia is based on several factors including past experiences, current health, reactions to medications, risks involved, and the healthcare team.",
+    "risks_and_complications": [
+        "Breathing difficulties",
+        "Allergic reactions",
+        "Nerve injury",
+        "Heart attack",
+        "Stroke"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Anterior Lumbar Interbody Fusion (ALIF)",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful or unstable vertebrae so that they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior Lumbar Interbody Fusion (ALIF)"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Nerve damage, which can result in weakness in tapping your foot",
+        "Rare incidence of bowel, bladder, or blood vessel injury (<0.1%)",
+        "Incisional hernia (where the muscle seems to pouch out)"
+    ],
+    "recovery_time": "1 to 3 days in the hospital after surgery, with most patients encouraged to stand and walk by the first day after surgery.",
+    "rehabilitation": "Basic exercises, including routine walking, during the first several weeks after surgery. Avoid bending with your back, twisting, or lifting anything heavier than a gallon of milk.",
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Most patients who undergo ALIF can expect improvement of lower back pain and disability in weeks to months after surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthroscopy",
+    "overview": "Arthroscopy is a surgical procedure that orthopaedic surgeons use to visualize and treat problems inside a joint.",
+    "causes": [
+        "Inflammation",
+        "Acute injuries",
+        "Chronic injuries"
+    ],
+    "symptoms": [
+        "Rotator cuff tendon tears",
+        "Shoulder impingement",
+        "Recurrent dislocation in the shoulder",
+        "Meniscal (cartilage) tears in the knee",
+        "Chondromalacia (wearing or injury of the cartilage cushion in the knee)",
+        "Anterior cruciate ligament (ACL) tears with instability in the knee",
+        "Carpal tunnel syndrome in the wrist",
+        "Loose bodies of bone and/or cartilage"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Rotator cuff repair",
+        "Repair or resection of torn cartilage (meniscus) from the knee or shoulder",
+        "Reconstruction of the anterior cruciate ligament (ACL) in the knee",
+        "Removal of the synovium in the knee, shoulder, elbow, wrist, or ankle",
+        "Release of the carpal tunnel in the wrist",
+        "Repair of torn ligaments",
+        "Removal of loose bone or cartilage in the knee, shoulder, elbow, wrist, or ankle"
+    ],
+    "procedure_description": "In arthroscopic surgery, an orthopaedic surgeon makes a small incision in the patient's skin, then inserts pencil-sized instruments that contain a small lens and lighting system to magnify and illuminate the structures inside the joint. Light is transmitted through fiber optics to the end of the arthroscope that is inserted into the joint.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots (DVT)",
+        "Excessive swelling or bleeding",
+        "Damage to blood vessels or nerves",
+        "Instrument breakage"
+    ],
+    "recovery_time": "Several weeks for the joint to maximally recover; specific activity and rehabilitation program may be suggested.",
+    "rehabilitation": "A specific activity and rehabilitation program may be suggested to speed recovery and protect future joint function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When conservative treatments fail or when a specific diagnosis indicates surgical intervention.",
+    "results": "Most patients have their arthroscopic surgery as outpatients and are home several hours after the surgery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Articular Cartilage Restoration",
+    "overview": "Articular cartilage is the smooth, white tissue that covers the ends of bones where they come together to form joints. Healthy cartilage in our joints makes it easier to move. It allows the bones to glide over each other with very little friction. Articular cartilage can be damaged by injury or normal wear and tear. Because cartilage does not heal itself well, doctors have developed surgical techniques to stimulate the growth of new cartilage. Restoring articular cartilage can relieve pain and allow better function. Most important, it can delay or prevent the onset of arthritis.",
+    "causes": [
+        "Injury",
+        "Normal wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Difficulty moving joints"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Microfracture",
+        "Drilling",
+        "Abrasion arthroplasty",
+        "Matrix-induced autologous chondrocyte implantation",
+        "Osteochondral autograft transplantation",
+        "Osteochondral allograft transplantation"
+    ],
+    "procedure_description": "Many procedures to restore articular cartilage are done arthroscopically. During arthroscopy, your surgeon makes two or three small, puncture incisions around your joint using an arthroscope. Some procedures require the surgeon to have more direct access to the affected area. Longer, open incisions are required. Sometimes it is necessary to address other problems in the joint, such as meniscal or ligament tears, when cartilage surgery is done. In general, recovery from an arthroscopic procedure is quicker and less painful than a traditional, open surgery. Your doctor will discuss the options with you to determine what kind of procedure is right for you.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Several months",
+    "rehabilitation": "Physical therapy may be prescribed to help restore mobility and strengthen the joint and supporting muscles.",
+    "success_rate": "Varies by procedure and patient condition",
+    "when_to_consider_surgery": "When cartilage damage is significant and causing pain or functional limitations, especially in younger patients with single lesions.",
+    "results": "Restoration of cartilage can relieve pain and improve joint function, potentially delaying or preventing arthritis.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Artificial Disk Replacement in the Lumbar Spine",
+    "overview": "In lumbar artificial disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with a prosthetic, or artificial disk. The goal of the procedure is to relieve back pain while maintaining more normal motion than is allowed with some other procedures, such as spinal fusion (which aims to prevent motion).",
+    "causes": [
+        "Degenerative (arthritic) disks in the lumbar spine"
+    ],
+    "symptoms": [
+        "Persistent low back pain",
+        "Pain not improved with conservative treatment"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Artificial disk replacement",
+        "Lumbar fusion"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. Your surgical team will approach your lower back from the front through an incision in your abdomen. During the procedure, your surgeon will remove your problematic disk, then insert an artificial disk implant into the disk space.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Blood clots",
+        "Implant failure"
+    ],
+    "recovery_time": "1 to 3 days in the hospital, with early mobilization encouraged",
+    "rehabilitation": "Basic exercises including routine walking and stretching during the first several weeks after surgery, avoiding activities that cause hyperextension of the back.",
+    "success_rate": "Improvement of lower back pain and disability in weeks to months after surgery, with success rates ranging from 50 to 90% for lumbar fusion, but artificial disk replacement aims to preserve motion and may have varying outcomes.",
+    "when_to_consider_surgery": "When low back pain does not improve with conservative treatment and is caused by one or two degenerative disks, as determined by diagnostic testing and physical exam.",
+    "results": "Most patients can expect improvement of lower back pain and disability in weeks to months after surgery, but it does not completely eliminate pain.",
+    "cost_estimation": "Insurance coverage for lumbar disk replacement varies, and many insurance companies do not currently approve lumbar disk replacements."
+}{
+    "surgery_name": "Awake Spinal Surgery",
+    "overview": "Awake spinal surgery, also known as intravenous sedation surgery, is a procedure where the patient remains awake during the operation. It can reduce the risks associated with general anesthesia, potentially leading to quicker recovery times and improved results for patients.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Laminectomy",
+        "Diskectomy",
+        "Transforaminal Lumbar Interbody Fusion"
+    ],
+    "procedure_description": "In awake spinal surgery, doctors use spinal anesthesia to numb the surgical area, allowing the patient to remain awake and aware during the procedure. This method is considered safer as it does not require a breathing tube.",
+    "risks_and_complications": [
+        "Not everyone can have this kind of surgery",
+        "Anxiety or fear during the procedure"
+    ],
+    "recovery_time": "Patients will start moving around with help immediately after the procedure and will be evaluated for recovery from spinal anesthesia before discharge.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Bone and Tissue Transplantation",
+    "overview": "This guide to bone and tissue transplantation is provided by the American Academy of Orthopaedic Surgeons (AAOS) and the American Association of Tissue Banks (AATB).",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Bone or tissue transplantation"
+    ],
+    "procedure_description": "The procedure involves using a bone or other musculoskeletal tissue from a donor for transplantation.",
+    "risks_and_complications": [
+        "Theoretical risk of disease transmission"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": "Costs for recovering organs and tissues for donation are never passed on to the donor or the donor family."
+}{
+    "surgery_name": "Bone Grafts in Spine Surgery",
+    "overview": "Spinal fusion is one of the most common surgeries performed in the neck or back. The basic idea is to fuse together painful or unstable bones in the spine so that they heal into a single, solid bone. For bones to fuse or heal together, additional bone is needed. This additional bone is called a bone graft.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Spinal Fusion"
+    ],
+    "procedure_description": "The standard technique used in fusion is to take extra bone from one part of the patient's body (harvest) and move (graft) it to another part of the body, such as the spine. This type of bone graft is called an autograft.",
+    "risks_and_complications": [
+        "Pain at the harvest site",
+        "Limited amount of bone available",
+        "Risk of fracture at the harvest site",
+        "Infection or bleeding"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Bunion Surgery",
+    "overview": "This article provides information on surgery for bunions. Most people with bunions find pain relief with simple treatments to reduce pressure on the big toe, such as wearing wider shoes or using pads in their shoes. However, if these measures do not relieve your symptoms, your doctor may recommend bunion surgery.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "Wearing wider shoes",
+        "Using pads in shoes"
+    ],
+    "surgical_procedures": [
+        "Osteotomy",
+        "Arthrodesis",
+        "Exostectomy",
+        "Minimally Invasive Bunion Surgery"
+    ],
+    "procedure_description": "Bunion surgery generally involves realigning the bones of the big toe to bring it back to its correct position. The common goals of most bunion surgeries include realigning the metatarsophalangeal (MTP) joint at the base of the big toe, relieving pain, and correcting the deformity of the bones that make up the toe and foot.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve injury",
+        "Failure to relieve pain",
+        "Failure of the bone to fully heal",
+        "Stiffness of the big toe joint",
+        "Recurrence of the bunion"
+    ],
+    "recovery_time": "Up to 6 months for full recovery, with follow-up visits for up to a year.",
+    "rehabilitation": "Specific exercises will help restore your foot's strength and range of motion after surgery. Always start these exercises slowly and follow instructions from your doctor or physical therapist regarding repetitions.",
+    "success_rate": null,
+    "when_to_consider_surgery": "If your bunion is painful and limits your everyday activities, including walking and wearing reasonable shoes, you may be a candidate for surgery.",
+    "results": "The majority of patients who undergo bunion surgery experience a reduction of foot pain, along with improvement in the alignment of their big toe.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Cannabidiol (CBD) FAQ",
+    "overview": "Cannabidiol, commonly called CBD, is a substance that comes from the plant Cannabis sativa. This article answers some frequently asked questions about the use of CBD to help inform your treatment decisions.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "CBD cream",
+        "CBD gel",
+        "CBD oil"
+    ],
+    "surgical_procedures": null,
+    "procedure_description": "CBD for medical use is available mostly in three forms: cream, gel, or oil. The cream and gel may be rubbed onto the area to be treated. The oil may be put into a drink or on food, rubbed onto a treatment area, or put directly under the tongue.",
+    "risks_and_complications": [
+        "Anemia",
+        "Diarrhea",
+        "Drowsiness",
+        "Dry mouth",
+        "Infection",
+        "Irritability",
+        "Liver problems",
+        "Nausea",
+        "Problems with sleep"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Cervical Disk Replacement",
+    "overview": "Cervical artificial disk replacement is a newer procedure that aims to improve neck pain while preserving more normal neck motion than fusion surgery. In cervical disk replacement, worn or damaged disk material between the small bones in the spine (vertebrae) is removed and replaced with an artificial disk.",
+    "causes": [
+        "Degeneration of cervical disks",
+        "Arthritis of the neck"
+    ],
+    "symptoms": [
+        "Neck pain",
+        "Stiffness",
+        "Shooting pain",
+        "Weakness"
+    ],
+    "non_surgical_treatments": [
+        "Medications",
+        "Injections",
+        "Physical therapy"
+    ],
+    "surgical_procedures": [
+        "Cervical spinal fusion",
+        "Cervical disk replacement"
+    ],
+    "procedure_description": "Most artificial disk replacement surgeries take 2 to 3 hours. You will be given general anesthesia to keep you asleep during the procedure. The surgeon will make an incision in the front of your neck, remove the problematic disk, and insert an artificial disk in its place.",
+    "risks_and_complications": [
+        "Infection",
+        "Nerve damage",
+        "Difficulty swallowing",
+        "Blood clots"
+    ],
+    "recovery_time": "1 to 2 days in the hospital, with full recovery taking 6 to 12 weeks for strenuous activities.",
+    "rehabilitation": "Physical therapy may be recommended to aid recovery and improve neck function.",
+    "success_rate": "Most patients can expect improvement of pain and disability in weeks to months following surgery.",
+    "when_to_consider_surgery": "Surgery may be considered if you are still having pain after trying conservative treatments.",
+    "results": "Studies show that disk replacement improves but does not completely eliminate pain.",
+    "cost_estimation": "Cost may vary based on the facility and insurance coverage."
+}{
+    "surgery_name": "Cervical Radiculopathy: Surgical Treatment Options",
+    "overview": "This article provides information on surgery for cervical radiculopathy. For more general information: Cervical Radiculopathy (Pinched Nerve).",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior cervical diskectomy and fusion (ACDF)",
+        "Cervical Artificial Disk Replacement (ADR)",
+        "Posterior cervical laminoforaminotomy"
+    ],
+    "procedure_description": "The main goal of surgery is to relieve your symptoms by decompressing, or relieving pressure on, the compressed nerves in your neck. Other goals of surgery include improving neck pain, maintaining stability of the spine, improving alignment of the spine, and preserving range of motion in the neck.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Nerve injury",
+        "Spinal cord injury",
+        "Reaction to anesthesia",
+        "The need for additional surgery in the future",
+        "Failure to relieve symptoms",
+        "Tear of the sac covering the nerves (dural tear)",
+        "Life-threatening medical problems, such as heart attack, lung complications, or stroke"
+    ],
+    "recovery_time": "Most patients stay in the hospital for 1 night, although some are able to go home the same day. Most patients are able to walk and eat on the first day after surgery. It is normal to have difficulty swallowing solid foods for a few weeks or have some hoarseness following anterior cervical spine surgery.",
+    "rehabilitation": "Usually, by 4 to 6 weeks, you can gradually begin to do range-of-motion and strengthening exercises. Your doctor may prescribe physical therapy during the recovery period to help you regain full function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "When symptoms of cervical radiculopathy continue or worsen despite nonsurgical treatment, your doctor may recommend surgery.",
+    "results": "Most patients experience favorable outcomes after surgery for cervical radiculopathy. In most cases, they experience relief from their pain and other symptoms and can successfully return to the activities of daily life after a period of recovery.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Cervical Spondylotic Myelopathy: Surgical Treatment Options",
+    "overview": "This article provides information on surgery for cervical spondylotic myelopathy. For more general information: Cervical Spondylotic Myelopathy (Spinal Cord Compression)",
+    "causes": null,
+    "symptoms": [
+        "Weakness in the arms or legs",
+        "Numbness in the hands",
+        "Fine motor skill difficulties",
+        "Imbalance issues",
+        "Gait changes"
+    ],
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Anterior cervical diskectomy and fusion",
+        "Anterior cervical corpectomy and fusion",
+        "Anterior cervical diskectomy and disk replacement",
+        "Laminectomy and fusion",
+        "Laminoplasty"
+    ],
+    "procedure_description": "The goal of surgery is to relieve symptoms by decompressing, or relieving pressure on, the spinal cord. This involves removing the pieces of bone or soft tissue (such as a herniated disk or thickened ligament) that may be taking up space in the spinal canal. This relieves pressure by creating more space for the spinal cord.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Nerve injury",
+        "Spinal cord injury",
+        "Reaction to anesthesia",
+        "The need for additional surgery in the future",
+        "Failure to relieve symptoms",
+        "Tear of the sac covering the nerves (dural tear)",
+        "Life-threatening medical problems, such as heart attack, lung complications, or stroke"
+    ],
+    "recovery_time": "After surgery, you will typically stay in the hospital for 1 or 2 days. This will vary, however, depending on the type of surgery you have had and how many disk levels were involved.",
+    "rehabilitation": "Usually by 4 to 6 weeks, you can gradually begin to do range-of-motion and strengthening exercises. Your doctor may prescribe physical therapy during the recovery period to help you regain full function.",
+    "success_rate": null,
+    "when_to_consider_surgery": "Candidates for surgery include patients who have progressive neurologic changes with signs of severe spinal cord compression or spinal cord swelling. Patients with severe or disabling pain may also be helped with surgery.",
+    "results": "Outcomes will vary from patient to patient. Typically, with respect to pre-surgical symptoms, one-third of patients improve, one-third stay the same, and one-third continue to worsen over time.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Cortisone Shot (Steroid Injection)",
+    "overview": "A cortisone shot is a simple in-office procedure in which a steroid, like triamcinolone or methylprednisolone, is injected into a joint in combination with an anesthetic, like lidocaine or bupivacaine. Because the shot includes steroids, it is sometimes called a 'steroid injection.'",
+    "causes": [
+        "arthritis",
+        "bursitis",
+        "carpal tunnel syndrome",
+        "back pain"
+    ],
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "oral medications",
+        "physical therapy"
+    ],
+    "surgical_procedures": [
+        "arthroscopy",
+        "arthroplasty (joint replacement)"
+    ],
+    "procedure_description": "The injectable steroid used in a cortisone shot has anti-inflammatory properties. The injectable steroid is deposited on the lining of the joint. As the cells in the lining of the joint interact with the injectable steroid, the cells begin to work with your immune system to reduce inflammation and pain.",
+    "risks_and_complications": [
+        "risk of a flare after a cortisone shot",
+        "potential cartilage deterioration",
+        "risk of infection",
+        "tendon rupture"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": "considered an effective treatment option for many patients suffering from joint pain",
+    "when_to_consider_surgery": "If there is significant pain relief immediately after a cortisone shot, it confirms pain is coming from the joint and can usually be addressed with surgery.",
+    "results": "A cortisone shot can last for several weeks as the cells in the lining of the joint continue to interact with the injectable steroid.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Cubital Tunnel Release",
+    "overview": "Cubital tunnel release is a surgical procedure used to treat cubital tunnel syndrome (also known as ulnar nerve entrapment at the elbow).",
+    "causes": [
+        "Cubital tunnel syndrome is caused by a pinched ulnar nerve at the elbow."
+    ],
+    "symptoms": [
+        "Numbness in the small finger and sometimes the ring finger",
+        "Weakness in the muscles of the hand resulting in poor hand function"
+    ],
+    "non_surgical_treatments": [
+        "Splinting the elbow straight at night",
+        "Exercises to help get the nerve moving better behind the elbow"
+    ],
+    "surgical_procedures": [
+        "Cubital tunnel release"
+    ],
+    "procedure_description": "The procedure involves releasing the ulnar nerve by clearing away tissue compressing it and may include transposition of the nerve if necessary.",
+    "risks_and_complications": [
+        "Infection",
+        "Wound healing issues",
+        "Injuries to nearby structures such as nerves/vessels/tendons",
+        "Lack of improvement after surgery",
+        "Worsening of the condition after surgery"
+    ],
+    "recovery_time": "Patients may return to sedentary jobs a few days after surgery, while those with physically demanding jobs may need 2 to 4 weeks off.",
+    "rehabilitation": "Patients are advised to avoid injury to the skin over the elbow and manage blood sugar levels if diabetic. Smokers should avoid smoking prior to surgery.",
+    "success_rate": "Long-term outcomes of cubital tunnel release are good, especially in patients with milder disease over a shorter period of time.",
+    "when_to_consider_surgery": "Surgery is recommended if nonsurgical treatments are ineffective or if the condition is too severe for nonsurgical treatment to be effective.",
+    "results": "It can take 12 to 18 months after surgery to see the final results, with some patients experiencing improvement and others not seeing significant changes.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Elbow Arthroscopy",
+    "overview": "Arthroscopy is a procedure that orthopaedic surgeons use to visualize and treat problems inside a joint. The word arthroscopy comes from two Greek words, \"arthro\" (joint) and \"skopein\" (to look). The term literally means \"to look within the joint.\" During elbow arthroscopy, your surgeon inserts a small camera, called an arthroscope, into your elbow joint. The camera displays pictures on a monitor, and your surgeon uses these images to guide miniature surgical instruments.",
+    "causes": [
+        "Injury",
+        "Overuse",
+        "Inflammatory conditions, like rheumatoid arthritis",
+        "Age-related wear and tear"
+    ],
+    "symptoms": [
+        "Pain",
+        "Swelling",
+        "Stiffness"
+    ],
+    "non_surgical_treatments": [
+        "Rest",
+        "Physical therapy",
+        "Medications or injections that can reduce inflammation"
+    ],
+    "surgical_procedures": [
+        "Treat tennis elbow (lateral epicondylitis)",
+        "Remove loose bodies (loose cartilage and bone fragments)",
+        "Release scar tissue and bone spurs to improve range of motion",
+        "Treat osteoarthritis (wear-and-tear arthritis)",
+        "Treat rheumatoid arthritis (inflammatory arthritis)",
+        "Treat osteochondritis dissecans",
+        "Treat some fractures"
+    ],
+    "procedure_description": "Your surgeon will first fill the elbow joint with fluid. The fluid helps your surgeon more clearly see the structures of your elbow through the camera on the arthroscope. This lessens the risk of injury to the blood vessels and nerves surrounding your elbow joint. Your surgeon will make several small incisions to introduce the arthroscope and small instruments into the joint. Fluid flows through the arthroscope to keep the view clear and control any bleeding. Images from the arthroscope are projected on the video screen showing your surgeon the inside of your elbow and any problems.",
+    "risks_and_complications": [
+        "Infection",
+        "Excessive bleeding",
+        "Blood clots",
+        "Damage to blood vessels or nerves"
+    ],
+    "recovery_time": "Recovery from arthroscopy is often faster than recovery from open surgery, but it may still take weeks to months for your elbow joint to completely recover.",
+    "rehabilitation": "Rehabilitation plays an important role in getting you back to your daily activities. An exercise program will help you regain elbow and forearm motion and strength. Your surgeon will develop a rehabilitation plan based on the surgical procedures you required.",
+    "success_rate": "Most patients do not experience significant complications from elbow arthroscopy. As with any surgery, however, there are some risks. These are usually minor and treatable and not likely to affect your final outcome.",
+    "when_to_consider_surgery": "Your doctor may recommend elbow arthroscopy if you have a painful condition that does not respond to nonsurgical treatment.",
+    "results": "Following your surgeon's guidelines and rehabilitation plan is vital to a successful outcome.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Electrodiagnostic Testing",
+    "overview": "Electrodiagnostic testing measures the speed and degree of electrical activity in your muscles and nerves to help diagnose conditions affecting nerves and muscles.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": null,
+    "procedure_description": "Electrodiagnostic testing includes two common tests: Electromyography (EMG) and Nerve Conduction Studies (NCS). EMG records electrical activity in muscles, while NCS measures the speed of electrical signals in nerves.",
+    "risks_and_complications": [
+        "Pain and discomfort during EMG needle insertion",
+        "Soreness and bruising after needle removal"
+    ],
+    "recovery_time": "Typically, results can be obtained soon after the test.",
+    "rehabilitation": null,
+    "success_rate": "Generally accurate in determining injuries to nerves or nerve roots, as well as diseases of nerves and muscles.",
+    "when_to_consider_surgery": "Surgeons may order electrodiagnostic testing before recommending surgery for conditions like carpal tunnel syndrome, thoracic outlet syndrome, and ulnar nerve entrapment.",
+    "results": "Results are usually available soon after the test, but may take several weeks for changes to become apparent.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Endoscopic Diskectomy",
+    "overview": "Endoscopic spine surgery is an advanced surgical technique that offers a minimally invasive approach to removing herniated disks in the lower back. In this procedure, the surgeon uses an endoscope (a thin, flexible tube with a camera and light source) to visualize and access the spine through small incisions.",
+    "causes": [
+        "Wear and tear",
+        "Sudden injury"
+    ],
+    "symptoms": [
+        "Lower back pain",
+        "Pain in one or both legs",
+        "Numbness",
+        "Weakness",
+        "Sciatica"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Pain management",
+        "Medication"
+    ],
+    "surgical_procedures": [
+        "Endoscopic diskectomy",
+        "Microdiskectomy",
+        "Lumbar diskectomy"
+    ],
+    "procedure_description": "A disk begins to herniate when its jelly-like nucleus pushes against its outer ring due to wear and tear or a sudden injury. This pressure against the outer ring may cause lower back pain. If the pressure continues, the jelly-like nucleus may push all the way through the disk's outer ring or cause the ring to bulge, putting pressure on the spinal cord and nearby nerve roots.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Nerve damage",
+        "Dural tears",
+        "Incomplete removal of herniated disk"
+    ],
+    "recovery_time": "Generally faster compared to open surgery; patients can usually go home the same day or after a short hospital stay.",
+    "rehabilitation": "Activities may be restricted for a few weeks, and physical therapy may be recommended. Patients are encouraged to gradually resume their normal activities.",
+    "success_rate": "Promising early results, but long-term outcomes are still being studied.",
+    "when_to_consider_surgery": "When nonsurgical treatments have failed to relieve painful symptoms or for patients experiencing specific issues such as persistent muscle weakness, difficulty walking, or loss of bladder or bowel control.",
+    "results": "Patients can usually go home the same day as the procedure or after a short hospital stay, with a faster recovery compared to open surgery.",
+    "cost_estimation": "More expensive than traditional open surgery due to specialized equipment and expertise required."
+}{
+    "surgery_name": "",
+    "overview": "",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": null,
+    "procedure_description": null,
+    "risks_and_complications": null,
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Finger (IP Joint) Fusion",
+    "overview": "Interphalangeal (IP) joint arthrodesis (fusion) is a procedure where a finger joint is prepared and held in a defined position until it heals there. The end result is elimination of motion at that joint by making the two ends of the bone grow (fuse) together.",
+    "causes": [
+        "Aging (osteoarthritis)",
+        "Trauma to the finger or thumb",
+        "Disease (rheumatoid arthritis)",
+        "Infection",
+        "Gout"
+    ],
+    "symptoms": [
+        "Poor finger function",
+        "Pain",
+        "Deformity"
+    ],
+    "non_surgical_treatments": [
+        "Splints",
+        "Anti-inflammatory medication",
+        "Pain relieving measures",
+        "Steroid injections"
+    ],
+    "surgical_procedures": [
+        "IP joint arthrodesis (fusion)"
+    ],
+    "procedure_description": "During the surgery, the patient is often made sleepy and the surgical site is numbed with medication. The joint is opened so that the surgeon can access the joint surfaces. The joint surfaces are prepared with tools to make them match each other well and expose the healthy/bleeding bone just below the joint. The joint is aligned so the finger is straight from an overhead view and straight or, in some cases, slightly bent from a side view. The joint is then held in this position with the joint surfaces pressed against each other so they can heal together.",
+    "risks_and_complications": [
+        "Infection",
+        "Wound healing issues",
+        "Injuries to nearby structures such as nerves/vessels/tendons",
+        "Lack of improvement after surgery",
+        "Failure of the surgery",
+        "Hardware issues with the implants used for fixing the fusion",
+        "Nonunion"
+    ],
+    "recovery_time": "6 to 12 weeks for the surgery to start to feel beneficial; 9 to 12 months for final results.",
+    "rehabilitation": "Patients typically are placed in a removable splint and start therapy for gentle motion of the other fingers and the other joints around the fused joint.",
+    "success_rate": "Most patients are ultimately happy with the surgery. It has excellent rates of pain improvement and functional benefits.",
+    "when_to_consider_surgery": "Fusion is usually reserved for patients with severe, painful arthritis of the affected joint or chronic joint instability, deformity, or other conditions affecting the function of the finger/thumb/joint.",
+    "results": "The surgery reliably corrects finger deformities and reduces or eliminates pain.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Lateral Lumbar Interbody Fusion",
+    "overview": "Spinal fusion is a surgical procedure used to correct problems with the small bones in the spine (vertebrae). It is essentially a welding process. The basic idea is to fuse together the painful vertebrae, so they heal into a single, solid bone.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Lateral Lumbar Interbody Fusion",
+        "Interbody Fusion"
+    ],
+    "procedure_description": "An interbody fusion is a type of spinal fusion that involves removing the intervertebral disk from the disk space. When the disk space has been cleared out, your surgeon will implant a metal, plastic, or bone spacer between the two adjoining vertebrae. This spacer, or cage, promotes bone healing, helps make the fusion happen, and increases the collapsed intervertebral disk space.",
+    "risks_and_complications": [
+        "Anterior thigh pain",
+        "Nerve damage",
+        "Bowel, bladder, or blood vessel injury",
+        "Incisional hernia",
+        "Hematoma"
+    ],
+    "recovery_time": "Patients typically go home the same day or next day if only one level is fused. If more than one level is fused, most patients stay overnight.",
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": null,
+    "results": "Outcomes for lateral lumbar interbody fusion are equivalent to those of traditional surgeries. Because this procedure is performed through a smaller incision, it may minimize muscle damage.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Arthritis Management",
+    "overview": "Arthritis pain naturally causes most adults to slow down and limit activity. Not exercising, however, can result in more problems. Recent research shows that over time inactivity actually worsens osteoarthritis pain and puts adults at greater risk for eventual total loss of mobility.",
+    "causes": [
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "Post-traumatic arthritis",
+        "Gout",
+        "Infectious arthritis"
+    ],
+    "symptoms": [
+        "Joint pain",
+        "Stiffness",
+        "Swelling",
+        "Decreased range of motion",
+        "Redness around the joint"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Medications",
+        "Weight management",
+        "Exercise",
+        "Heat and cold therapy"
+    ],
+    "surgical_procedures": [
+        "Arthroscopy",
+        "Joint replacement",
+        "Osteotomy"
+    ],
+    "procedure_description": "Arthritis management may include a combination of non-surgical and surgical treatments depending on the severity of the condition.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots",
+        "Nerve damage",
+        "Joint stiffness"
+    ],
+    "recovery_time": "Varies by procedure; typically several weeks to months for full recovery after surgery.",
+    "rehabilitation": "Physical therapy is often recommended to regain strength and mobility post-surgery.",
+    "success_rate": "High success rate for joint replacement surgeries, with many patients experiencing significant pain relief and improved function.",
+    "when_to_consider_surgery": "When non-surgical treatments have failed to relieve symptoms and quality of life is significantly affected.",
+    "results": "Most patients experience significant pain relief and improved mobility after surgery.",
+    "cost_estimation": "Costs can vary widely based on the procedure and location, typically ranging from several thousand to tens of thousands of dollars."
+}{
+    "surgery_name": "Manipulation Under Anesthesia After Total Knee Replacement",
+    "overview": "Manipulation under anesthesia (MUA) is a non-invasive procedure that helps you regain motion if your total knee replacement becomes stiff.",
+    "causes": [
+        "Adhesions (arthrofibrosis)",
+        "Surgical complications",
+        "Incorrect positioning or size of the implant"
+    ],
+    "symptoms": [
+        "Stiffness",
+        "Pain"
+    ],
+    "non_surgical_treatments": [
+        "Physical therapy",
+        "Range-of-motion exercises"
+    ],
+    "surgical_procedures": [
+        "Manipulation under anesthesia"
+    ],
+    "procedure_description": "Before the procedure, you will be given anesthesia (put to sleep) in the operating room. This ensures you will not feel any pain during the procedure. Your doctor will then gently bend and straighten your knee joint, applying gentle force to break up any scar tissue or adhesions causing the tightness. No incision is necessary, though some surgeons will give an injection or a nerve block at the time of the MUA to help with pain control. The procedure typically lasts only a few minutes, and you should be discharged home the same day (outpatient surgery).",
+    "risks_and_complications": [
+        "Continued stiffness",
+        "Fracture",
+        "Persistent pain"
+    ],
+    "recovery_time": "Sore and swollen for several days, continue with physical therapy exercises to prevent stiffness from returning.",
+    "rehabilitation": "Continue with physical therapy exercises to prevent stiffness from returning. Some doctors may prescribe a continuous passive motion machine (CPM).",
+    "success_rate": "Most patients experience increased knee mobility and reduced pain after the procedure.",
+    "when_to_consider_surgery": "If stiffness persists after total knee replacement and does not improve with physical therapy.",
+    "results": "Most patients gain significant motion after their manipulation and are satisfied with their result.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Meniscal Transplant Surgery",
+    "overview": "Meniscal transplant surgery is an arthroscopic procedure that replaces a damaged meniscus with donor tissue to relieve knee pain and prevent the progression to osteoarthritis.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Meniscal Transplant Surgery",
+        "Knee Arthroscopy",
+        "Partial Meniscectomy",
+        "Total Knee Replacement",
+        "Unicompartmental Knee Replacement",
+        "Osteotomy of the Knee"
+    ],
+    "procedure_description": "The procedure involves replacing the damaged meniscus with donor tissue matched for size. It is performed arthroscopically, usually requiring one or two small incisions.",
+    "risks_and_complications": [
+        "Stiffness",
+        "Reoperation",
+        "Incomplete healing",
+        "Bleeding",
+        "Infection",
+        "Damage to nearby nerves or blood vessels"
+    ],
+    "recovery_time": "4 to 6 weeks for initial immobilization, with physical therapy beginning once pain and swelling settle down. Full recovery may take 3 to 4 months depending on the patient's job and activity level.",
+    "rehabilitation": "Physical therapy focusing on pain management, muscle reactivation, and motion, with gradual introduction of strengthening exercises as healing progresses.",
+    "success_rate": "Between 45% and 79% of transplants succeed within 10 years, with higher success rates for lateral meniscal transplants compared to medial.",
+    "when_to_consider_surgery": "Younger than 40 to 45 years, physically active, missing a significant portion of the meniscus, persistent activity-related pain, stable ligaments, no or minimal knee osteoarthritis, and not obese.",
+    "results": "Meniscal transplants can provide significant pain relief and prevent further joint damage for carefully selected patients.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Meniscus Repair",
+    "overview": "Meniscus repair is an alternative to \u201ctrimming\u201d (partial meniscectomy) for some patients with meniscus tears. The procedure helps to restore the cushion between the femur (thighbone) and tibia (shinbone), protecting the cartilage of the knee joint and restoring stability.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "physical therapy",
+        "corticosteroid injections"
+    ],
+    "surgical_procedures": [
+        "meniscus repair",
+        "partial meniscectomy"
+    ],
+    "procedure_description": "Meniscus repair is typically performed for tears in zones that have good blood supply. Repairing the meniscus mends together the torn fibers to aid healing and restore the cushion between the femur (thighbone) and tibia (shinbone).",
+    "risks_and_complications": [
+        "Damage to nerves and blood vessels around the knee",
+        "Wound or knee joint infection",
+        "Blood clots",
+        "Knee stiffness",
+        "Muscle weakness",
+        "Need for additional surgery after failed repair or reinjury of the meniscus"
+    ],
+    "recovery_time": "Patients are expected to return to their normal level of activity at around 6 months, when the meniscus is fully healed.",
+    "rehabilitation": "Knee range of motion is often gradually progressed during the first 6 weeks. Your surgeon will provide instructions to your physical therapist to appropriately guide your recovery.",
+    "success_rate": "Return-to-sport rates after meniscus repair are reported to be approximately 91% and 95% after all-inside or inside-out repairs, respectively.",
+    "when_to_consider_surgery": "Meniscus repair is recommended for active patients with minimal cartilage wear or arthritis, especially those involved in sports or physically demanding activities.",
+    "results": "The majority of patients do well after surgery and are able to return without functional limitation.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Metastatic Bone Disease: Treatment Options for Specific Areas of Spread",
+    "overview": "Cancer that begins in an organ, such as the lungs, breast, or prostate, and then spreads to bone is called metastatic bone disease (MBD). Treatment options for MBD often depend on where the bone metastases have developed.",
+    "causes": [
+        "Lung cancer",
+        "Breast cancer",
+        "Prostate cancer"
+    ],
+    "symptoms": [
+        "Severe functional impairment",
+        "Pain",
+        "Inability to perform daily activities"
+    ],
+    "non_surgical_treatments": [
+        "Radiation therapy",
+        "Functional bracing",
+        "Medications such as bisphosphonates"
+    ],
+    "surgical_procedures": [
+        "Surgical stabilization",
+        "Surgical removal and reconstruction"
+    ],
+    "procedure_description": "The goals of surgery are stability, functional improvement, and pain relief. Patients not suitable for surgery include those with limited life expectancy, other severe medical problems, small tumors, or tumors that can be treated with radiation alone.",
+    "risks_and_complications": [
+        "Surgical complications",
+        "Infection",
+        "Limited function post-surgery"
+    ],
+    "recovery_time": "Varies based on the extent of surgery and individual patient factors.",
+    "rehabilitation": "Rehabilitation may include physical therapy to regain strength and mobility post-surgery.",
+    "success_rate": "Success rates vary based on the type of surgery and individual patient factors.",
+    "when_to_consider_surgery": "Surgery is considered when non-surgical management fails, or when there is significant involvement of critical mechanical portions of the skeleton.",
+    "results": "The results of surgery can lead to improved function and pain relief, but outcomes vary based on individual circumstances.",
+    "cost_estimation": "Cost estimates vary widely based on the type of treatment and location."
+}{
+    "surgery_name": "Minimally Invasive Spine Surgery",
+    "overview": "Minimally invasive spine surgery (MISS) accomplishes the same goal as open surgery, but through smaller incisions. It is designed to treat spine problems with less injury to the muscles and other normal structures in the spine.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "medications",
+        "physical therapy"
+    ],
+    "surgical_procedures": [
+        "lumbar decompression",
+        "spinal fusion"
+    ],
+    "procedure_description": "In these procedures, doctors use specialized instruments to access the spine through small incisions. The surgeon makes a small incision and inserts a tubular retractor through the skin and soft tissues down to the spinal column, creating a tunnel to the small area where the problem exists in the spine.",
+    "risks_and_complications": [
+        "Infection",
+        "Bleeding",
+        "Pain at graft site",
+        "Recurring symptoms",
+        "Pseudarthrosis",
+        "Nerve damage",
+        "Blood clots"
+    ],
+    "recovery_time": "MISS patients go home the same day or in 1 to 2 days. Most patients having traditional surgery stay in the hospital for 3 to 5 days.",
+    "rehabilitation": "Your doctor may recommend physical therapy to help you regain strength and speed your recovery.",
+    "success_rate": null,
+    "when_to_consider_surgery": "Surgery is usually recommended only when a period of nonsurgical treatment has not relieved the painful symptoms caused by your back problem.",
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Minimally Invasive Total Hip Replacement",
+    "overview": "Total hip replacement (also known as total hip arthroplasty) is a common orthopaedic procedure and, as the population ages, it is expected to become even more common. Replacing the hip joint with an implant, or prosthesis, relieves pain and improves mobility, enabling you to resume your normal, everyday activities.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Traditional Total Hip Replacement",
+        "Minimally Invasive Total Hip Replacement"
+    ],
+    "procedure_description": "During any total hip replacement surgery, the damaged bone is cut and removed, along with release of some soft tissues surrounding the joint. In minimally invasive surgery, the surgeon makes a smaller surgical incision and cuts or detaches fewer muscles around the hip. Despite this difference, however, both traditional total hip replacement surgery and minimally invasive surgery are technically demanding and have better outcomes if the surgeon and operating team have a lot of experience.",
+    "risks_and_complications": [
+        "Infection",
+        "Blood clots",
+        "Dislocations",
+        "Nerve and artery injuries",
+        "Wound healing problems",
+        "Fracture of the femur",
+        "Leg length differences"
+    ],
+    "recovery_time": null,
+    "rehabilitation": "Physical rehabilitation is a critical component of recovery. Your surgeon or a physical therapist will provide you with specific exercises to help increase your range of motion and restore your strength.",
+    "success_rate": null,
+    "when_to_consider_surgery": "Minimally invasive total hip replacement is not suitable for all patients. Your doctor will conduct a comprehensive evaluation and consider several factors before determining whether the procedure is an option for you. In general, candidates for minimal incision procedures are thinner, younger, healthier, and more motivated to participate in the rehabilitation process than patients who undergo the traditional surgery.",
+    "results": null,
+    "cost_estimation": null
+}{
+    "surgery_name": "Minimally Invasive Total Knee Replacement",
+    "overview": "Minimally invasive total knee replacement is a variation of traditional knee replacement that uses a shorter incision and a less invasive technique to expose the joint, aiming to reduce post-operative pain and speed recovery.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": null,
+    "surgical_procedures": [
+        "Total Knee Replacement",
+        "Minimally Invasive Total Knee Replacement"
+    ],
+    "procedure_description": "During any knee replacement, the damaged cartilage and bone from the surface of the knee is removed, along with some soft tissue. The goal of knee replacement is to provide the patient with a pain-free knee that allows for the return to daily activities. The traditional approach uses a long vertical incision, while the minimally invasive technique uses a shorter incision and less cutting of tendons and ligaments.",
+    "risks_and_complications": [
+        "Infection",
+        "Wound healing problems",
+        "Blood clots",
+        "Nerve and artery injuries",
+        "Errors in positioning the prosthetic knee implants"
+    ],
+    "recovery_time": "The hospital stay is similar to the length of stay after a traditional total knee replacement, typically 1 to 4 days, with some patients having outpatient surgery.",
+    "rehabilitation": "Physical therapy is a critical component of recovery, as it is for a traditional total knee replacement. Specific exercises will be provided to help increase range of motion and restore strength.",
+    "success_rate": null,
+    "when_to_consider_surgery": "Candidates for minimally invasive total knee replacement are generally thinner, younger, healthier, and more motivated to participate in the rehabilitation process. It may be less suitable for overweight patients or those who have had previous knee surgeries.",
+    "results": "The short-term benefit of minimally invasive total knee replacement is reported to be less damage to soft tissue, leading to a quicker, less painful recovery and more rapid return to normal activities. Long-term benefits do not differ from traditional total knee replacement.",
+    "cost_estimation": null
+}{
+    "surgery_name": "Nonsurgical Treatment Options for Scoliosis",
+    "overview": "This article answers frequently asked questions about observation and bracing, as well as physical therapy and alternative therapies such as acupuncture, chiropractic treatment, and yoga.",
+    "causes": null,
+    "symptoms": null,
+    "non_surgical_treatments": [
+        "observation",
+        "bracing",
+        "physical therapy",
+        "acupuncture",
+        "chiropractic treatment",
+        "yoga",
+        "Pilates"
+    ],
+    "surgical_procedures": [
+        "surgical treatment for scoliosis"
+    ],
+    "procedure_description": "Surgery is the only treatment that can reduce scoliosis, but it will not usually completely straighten the spine. Bracing can help prevent a curve from getting worse, but it is not expected to improve existing curvature.",
+    "risks_and_complications": [
+        "surgical care is usually recommended for patients with curves greater than 50 degrees",
+        "larger curves in children under the age of 10 years are the most likely to progress to needing surgical care"
+    ],
+    "recovery_time": null,
+    "rehabilitation": null,
+    "success_rate": null,
+    "when_to_consider_surgery": "If the curve is greater than 50 degrees or if the curve is progressing in a growing child.",
+    "results": null,
+    "cost_estimation": null
+}
