@@ -49,8 +49,8 @@ It combines traditional scraping (Selenium + BeautifulSoup) with modern LLM tech
 
 ---
 
-## 📂 Folder Structure
-    MediScrape-AI/
+## 📂 Folder Structure 
+MediScrape-AI/
 ├── helper.py # Firecrawl integration & schema validation
 ├── main.py # Web scraper logic using Selenium
 ├── treatment_links.json # Final structured JSON output
